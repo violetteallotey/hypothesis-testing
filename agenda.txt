@@ -1,0 +1,9 @@
+## Agenda
+
+1. Introduction to project (from ppt)
+2. Create a repository and clone to your local  machine
+3. 
+4. Securing Database Credentials with Environment Variables
+5. Analyzing Hypotheses
+6. Understanding Data Characteristics
+7. Preparing Data for Analysis
